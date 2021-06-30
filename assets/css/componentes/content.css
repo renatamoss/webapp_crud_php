@@ -1,0 +1,23 @@
+.content {
+    background-color: rgb(255, 255, 255);
+    padding: .5rem .5rem 2rem .5rem;
+}
+
+.content__hidden {
+    height: 3rem;
+}
+
+.content__title {
+    background-color: rgb(243, 240, 237);
+    font-weight: bold;
+}
+
+.content__description {
+    background-color: rgb(243, 240, 237);
+}
+
+.content__control {
+    background-color: rgb(243, 240, 237);
+    padding: 1rem;
+    margin: .5rem;
+}

@@ -1,0 +1,33 @@
+.form {
+    display: block;
+    flex-direction: column;
+    
+    background-color: rgb(243, 240, 237);
+    padding: 2rem;
+}
+
+.form__add {
+    padding: .5rem;
+    margin: 1rem;
+}
+
+.form__label {
+    font-weight: bold;
+    margin: 1rem 1rem 1rem 0;
+    padding: .5rem;
+}
+
+.form__input {
+    outline: none;
+    padding: 1rem;
+    width: 100%;
+}
+
+.form__input::placeholder {
+    font-style: italic;
+    color: rgb(156, 156, 156);
+}
+
+.form__button {
+    margin-left: 1rem;
+}

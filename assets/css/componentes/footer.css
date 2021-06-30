@@ -1,0 +1,9 @@
+.footer {
+    color: rgb(80, 80, 80);
+    font-size: .8rem;
+    font-style: italic;
+    margin: auto;
+    opacity: .6;
+    text-align: center;
+    width: 40%;
+}

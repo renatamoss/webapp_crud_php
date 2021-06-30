@@ -1,0 +1,30 @@
+.buttons {
+    background-color: rgb(243, 240, 237);
+    margin: 1rem 0;
+}
+
+.button {
+    background-color: rgb(253, 233, 194);
+    border-radius: .5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    height: 2.5rem;
+    padding: .5rem 1rem;
+    width: 14rem;
+    transition: ease .5s;
+}
+
+.button:hover {
+    opacity: .5;
+}
+
+.button__add {
+    display: flex;
+    justify-content: flex-end;
+    margin: .5rem;
+    position: relative;
+}
+
+.button__delete {
+    margin: auto;
+}
